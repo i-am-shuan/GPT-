@@ -11,7 +11,7 @@
 
 ### 서비스 흐름도
 <p align="center">
-  <img src = "https://github.com/i-am-shuan/GPT-advertising-text-creation/assets/161431602/f4396966-766a-45e9-a355-21404fad060d" width="80%" height="80%">
+  <img src = "https://github.com/i-am-shuan/GPT-advertising-text-creation/assets/161431602/f4396966-766a-45e9-a355-21404fad060d" width="60%" height="60%">
 </p>
 
 ---
