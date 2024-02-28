@@ -1,5 +1,6 @@
 
 ### 서버스 설명
+- service url: https://advertising-text-creation.streamlit.app/
 - app ui: streamlit
 - openai api / gpt-3.5-turbo
 
